@@ -25,6 +25,7 @@ I'm an **AI-Augmented Developer** who uses AI as a coding partner to build produ
 
 ## Featured Projects ✨
 
+- **[Mixit](https://github.com/sondero-ai/mixit)** - Ultra fast video mixer tool (Python + FFmpeg)
 - **[CogitoDaily](https://cogitodaily.com)** - AI News & Tools Blog (Next.js + Tailwind CSS)
 - **[Sondero Portfolio](https://sondero.xyz)** - Personal portfolio website
 
@@ -47,10 +48,11 @@ I'm an **AI-Augmented Developer** who uses AI as a coding partner to build produ
 ![Tailwind CSS](https://img.shields.io/badge/TAILWINDCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Backend & Database
+### Backend & Tools
 ![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFMPEG-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 ### DevOps & Tools
 ![Vercel](https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white)
