@@ -1,65 +1,81 @@
-# Hey, I'm Sondero 👋
+<div align="center">
 
-```
-🧠 Human Creativity  +  🤖 AI Power  =  🚀 Ship Faster
-```
+# Hi, I'm Sondero! 👋
 
-I'm a developer who treats AI as my coding partner. Not replacing the craft — amplifying it.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=500&lines=AI-Augmented+Developer;Building+with+AI+%2B+Code;Ship+Fast%2C+Iterate+Faster" alt="Typing SVG" />
 
----
+**AI-Powered Developer • Automation Enthusiast • Content Creator**
 
-## What I Build
+[![Portfolio](https://img.shields.io/badge/COGITODAILY.COM-0A66C2?style=for-the-badge&logoColor=white)](https://cogitodaily.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sondero-ai)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@cogitodaily.com)
+![Profile Views](https://komarev.com/ghpvc/?username=sondero-ai&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
 
-**[CogitoDaily](https://cogitodaily.com)** — AI News & Tools Blog  
-Next.js 15 • Tailwind CSS 4 • Automated with n8n + Gemini AI  
-→ 5 articles/day, fully automated content pipeline
-
----
-
-## How I Work
-
-```javascript
-const workflow = {
-  think: "Define the problem clearly",
-  prompt: "Let AI handle the heavy lifting", 
-  refine: "Human judgment makes it great",
-  ship: "Deploy fast, iterate faster"
-};
-```
-
-I don't write every line manually. I orchestrate AI tools to build production-ready apps in days, not weeks.
-
-**Tools in my arsenal:**
-- **Code:** Next.js, TypeScript, React, Tailwind, Node.js
-- **AI:** Claude, ChatGPT, Cursor, Copilot, Gemini
-- **Deploy:** Vercel, GitHub Actions, n8n
+</div>
 
 ---
 
-## Philosophy
+## What I Do?
 
-> *"The best developers aren't the ones who type the fastest.  
-> They're the ones who think the clearest."*
+I'm an **AI-Augmented Developer** who uses AI as a coding partner to build production-ready applications faster. I focus on **web development**, **automation**, and **AI-powered content systems**. Currently building [CogitoDaily](https://cogitodaily.com) — an automated AI news platform that publishes 5 articles/day with zero manual writing.
 
-AI handles syntax. I handle strategy.
-
----
-
-## Current Focus
-
-- 🔨 Building AI-powered web apps
-- 📝 Automating content creation
-- 🧪 Experimenting with prompt engineering
-- 📈 Scaling projects with minimal manual work
+**Open to:** Collaborations • Freelance Projects • AI/Automation Consulting
 
 ---
 
-## Let's Connect
+## Featured Projects ✨
 
-**Website:** [cogitodaily.com](https://cogitodaily.com)  
-**GitHub:** [@sondero-ai](https://github.com/sondero-ai)  
-**Email:** hello@cogitodaily.com
+- **[CogitoDaily](https://cogitodaily.com)** - AI News & Tools Blog with automated content pipeline (Next.js + Gemini AI)
+- **[Awesome AI Prompts](https://github.com/sondero-ai/awesome-ai-prompts)** - Curated collection of AI prompts for developers *(coming soon)*
 
 ---
 
-<sub>*"Code smarter, not harder."*</sub>
+## Tech Stack 🛠️
+
+### AI & Automation
+![ChatGPT](https://img.shields.io/badge/CHATGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/CLAUDE-8B5CF6?style=for-the-badge&logoColor=white)
+![Gemini](https://img.shields.io/badge/GEMINI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/COPILOT-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Cursor](https://img.shields.io/badge/CURSOR-000000?style=for-the-badge&logoColor=white)
+![n8n](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+### Frontend Development
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TAILWINDCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+
+### DevOps & Tools
+![Vercel](https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/CLOUDFLARE-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## GitHub Stats 📊
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sondero-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sondero-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" height="180"/>
+
+</div>
+
+---
+
+<div align="center">
+
+*"I don't write every line of code. I orchestrate AI to build faster."*
+
+⭐ **Star repos you find interesting** • **Open to collaboration** • **Let's build something cool!**
+
+</div>
