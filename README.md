@@ -12,7 +12,7 @@ pipelines, and on-chain automation.
 | --- | --- | --- |
 | [CogitoDaily](https://cogitodaily.com) | AI news and tool review publication. Agents handle intake, drafting, and publishing on a fixed daily schedule. | Next.js, Gemini, Vercel |
 | [MetaGamer](https://metagamer.pro) | Game guides, tier lists, and character builds for Star Savior and Etheria Restart. | Next.js, TypeScript, PostgreSQL |
-| [Guide Sondero](https://guide.sonderox.my.id) | Practical guide to running autonomous AI agents, written from the runbooks of the fleet below. | SPA, Nginx |
+| [Guide Sondero](https://guide.sonderox.my.id) | Indonesian-language guide to running autonomous AI agents, written from the runbooks of the fleet below. | SPA, Nginx |
 | [Mixit](https://github.com/sondero-ai/mixit) | Video mixer that combines clips and music without re-encoding. One hour of video in seconds. | Python, FFmpeg |
 | [Neon Harbor](https://github.com/sondero-ai/neon-harbor) | Third-person open-world crime game in the browser. Static files, no build step, no network calls after load. | JavaScript, Canvas |
 | [tiny-chess-01](https://github.com/sondero-ai/tiny-chess-01) | 4 KB chess engine with alpha-beta search, quiescence, and null-move pruning. Standard library only. | Python |
